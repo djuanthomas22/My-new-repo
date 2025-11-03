@@ -1,2 +1,2 @@
 # My-new-repo
-print('say cheese')
+Building for the future!
